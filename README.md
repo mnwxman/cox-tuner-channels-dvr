@@ -71,7 +71,7 @@ Cox‑specific notes:
 Implementation note:
 
 - `bmitune.sh` is a hybrid Bash and Python script.
-- Embedded Python code is used to push the desired channel number into the Cox Contour Live Guide search screen as quickly and reliably as possible.
+- Embedded Python code is needed to push the desired channel number into the Cox Contour Live Guide search screen as quickly and reliably as possible.
 
 ### stopbmitune.sh
 
