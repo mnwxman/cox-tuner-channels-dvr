@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 channel-id="58623" channel-number="3032" tvc-guide-stationid="58623" tvg-group="" tvg-logo="",SYFYHD
+http://{{ .IPADDRESS }}/play/tuner/SYFYHD~3032
+
+#EXTINF:-1 channel-id="58452" channel-number="3052" tvc-guide-stationid="58452" tvg-group="" tvg-logo="",USAHD
+http://{{ .IPADDRESS }}/play/tuner/USAHD~3052
