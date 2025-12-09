@@ -62,7 +62,7 @@ Cox‑specific notes:
   - Use a thousands boundary (between 1000 and 9000) for your virtual channel numbers.
   - The most significant digit is ignored in the tuning logic.
   - Match the lower three digits to the real Cox live channel number in your region.
-  - Example: If TBS is channel 45 in your Cox guide, define it in your M3U as 1045, 2045, 3045, etc.
+  - Example: If TBS is channel 45 in your Cox guide, define it in your M3U as 1045 or 2045 or 3045, etc.
 - In Channels DVR, configure the custom source to “Prefer channel number from M3U” so the guide uses these numbers.
 - The Cox Contour app supports up to 999 stations; build your M3U to reflect the actual Cox Contour App live guide.
 - A useful housekeeping step is to mark favorite channels in the Cox app and filter the live guide by favorites, then base your M3U on that filtered list. This is optional but can simplify M3U creation.
