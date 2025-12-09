@@ -14,7 +14,7 @@ All testing to date has been on an M4 Mac mini running macOS 15.6, using Portain
 
 ## Architecture and Code Branch
 
-This tuner uses the `AH4C:appleTV` code branch. That branch adds support for:
+This tuner uses the `AH4C:appleTV` code branch. That branch has support for:
 
 - `pyatv` `atvremote` commands that emulate Apple TV remote keypresses.
 - Direct `pyatv` commands to the Apple TV for station selection and navigation.
